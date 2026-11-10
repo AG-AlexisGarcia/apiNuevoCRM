@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="nuevaApiCrm/src/main/java"/>
+	<classpathentry kind="src" path="nuevaApiCrm/src/test/java"/>
+	<classpathentry kind="src" path="nuevaApiCrm/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/src/main/java"/>
+	<classpathentry kind="src" path="nuevaApiCrm/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/src/test/java"/>
+	<classpathentry kind="lib" path="nuevaApiCrm/target/generated-sources/archetype/target/nuevaApiCrm-archetype-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="nuevaApiCrm/target/classes"/>
+</classpath>
